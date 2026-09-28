@@ -1,0 +1,14 @@
+{
+  "city": "Puducherry",
+  "country": "IN",
+  "temperature": 29,
+  "condition": "Partly Cloudy",
+  "humidity": 68,
+  "windSpeed": 16,
+  "updatedAt": "Today, 10:30 AM",
+  "forecast": [
+    { "day": "Mon", "temperature": 31, "condition": "Sunny" },
+    { "day": "Tue", "temperature": 30, "condition": "Cloudy" },
+    { "day": "Wed", "temperature": 28, "condition": "Rain" }
+  ]
+}
